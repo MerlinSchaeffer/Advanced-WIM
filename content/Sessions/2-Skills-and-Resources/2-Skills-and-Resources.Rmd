@@ -1,0 +1,21 @@
+---
+title: "2 Skills and Resources"
+summary: "In this session we will talk about the role of skills and resources in explaining inequality and stratification"
+author: Merlin Schaeffer
+date: 2022-07-09
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @heckman_hard_2012, @bourdieu_forms_1986
+
+*Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
+
+<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+
+In this session we will read a classic of sociology, Bourdieu's essay on the forms of capital. We will then compare this essay with recent work by Heckman and others on the importance of (non-)cognitive skills. How do these arguments compare to one another? is Bourdieu's concept of cultural capital all encompassing or poorly defined and unspecific? Importantly, how do these theories help us to make sense of and explain inequality in Denmark and across the world?
+
+# References

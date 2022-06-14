@@ -1,0 +1,21 @@
+---
+title: "5 Compensatory Advantage"
+summary: "In this session we will discuss a mechanism that helps us understand why upper class kids fare better, even the one's who're not that smart and motivated"
+author: Merlin Schaeffer
+date: 2022-07-09
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @bernardi_compensatory_2014, @herbaut_overcoming_2021, and @wiedner_career_2020.
+
+*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+
+<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+
+Why are even lazy upper-class kids oftentimes more successful than highly talented and motivated working class kids? With his idea of a compensatory advantage, Bernardi tried to give an explanation. Here we will discuss his idea and its application to inequality research.
+
+# References
