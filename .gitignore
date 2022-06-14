@@ -4,6 +4,10 @@
 
 # Session Data files
 .RData
+assets/*.pdf
+
+# Mac
+.DS_Store
 
 # User-specific files
 .Ruserdata
