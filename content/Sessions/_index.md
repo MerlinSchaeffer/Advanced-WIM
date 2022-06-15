@@ -4,5 +4,5 @@ header:
   caption: ""
   image: ""
 title: Sessions
-view: 3
+view: 1
 ---

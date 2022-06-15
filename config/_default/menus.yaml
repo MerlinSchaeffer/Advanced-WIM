@@ -7,9 +7,9 @@ main:
   - name: About
     url: '/About/'
     weight: 10
-  - name: Sessions
-    url: '/Sessions/'
-    weight: 20
+  # - name: Sessions
+  #   url: '#Sessions'
+  #   weight: 20
   - name: Portfolios
     url: '/Portfolios/'
     weight: 30
