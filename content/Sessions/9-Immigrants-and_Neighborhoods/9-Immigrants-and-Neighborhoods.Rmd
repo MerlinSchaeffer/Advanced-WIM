@@ -1,0 +1,21 @@
+---
+title: "9 Immigrants and Neighborhoods"
+summary: "The Danish government does a lot to fight parallel societies. But what does sociology say about that?"
+author: Merlin Schaeffer
+date: 2022-10-03
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @zhou_social_1994, @jorgensen_power_2021, @religious_2022.
+
+*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+
+<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+
+The Danish government does a lot to fight parallel societies. But what does sociology say about that? As we will discuss, both classic and recent sociological scholarship sees many benefits in so-called ethno-religious enclaves. In many regards, they can actually suport the integration of immigrants and their children.
+
+# References

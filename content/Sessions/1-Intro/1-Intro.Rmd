@@ -2,7 +2,7 @@
 title: "1 Introduction"
 summary: "In this first session we will establish a common ground regarding our prior knowledge of research on welfare, inequality, and (social) mobility"
 author: Merlin Schaeffer
-date: 2022-07-09
+date: 2022-09-05
 publishdate: 2022-06-08
 slides: example
 

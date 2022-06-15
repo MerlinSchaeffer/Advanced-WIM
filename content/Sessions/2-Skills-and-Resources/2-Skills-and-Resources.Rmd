@@ -2,7 +2,7 @@
 title: "2 Skills and Resources"
 summary: "In this session we will talk about the role of skills and resources in explaining inequality and stratification"
 author: Merlin Schaeffer
-date: 2022-07-09
+date: 2022-09-08
 publishdate: 2022-06-08
 slides: example
 

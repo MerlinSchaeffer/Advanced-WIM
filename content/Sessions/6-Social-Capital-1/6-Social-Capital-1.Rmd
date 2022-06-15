@@ -1,0 +1,21 @@
+---
+title: "6 Social Capital 1"
+summary: "In this session we talk about network sociological conceptualizations of social capital."
+author: Merlin Schaeffer
+date: 2022-09-22
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @granovetter_strength_1973, @burt_brokerage_2007.
+
+*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+
+<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+
+Social Capital is a buzz word. But what is it actually and why exactly is it expected to be beneficial? In this session we will talk about the network sociological work on social capital. That is, why should certain positions in a social network be particularly beneficial? Thinking on this was particularly pushed forward by Marc Granovetter and Ronald Burt.
+
+# References

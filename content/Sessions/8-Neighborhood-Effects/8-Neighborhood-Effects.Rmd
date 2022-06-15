@@ -1,0 +1,29 @@
+---
+title: "8 Neighborhood Effects"
+summary: "Why might growing up in a poor neighborhood be a disadvantage? What is it about neighborhoods that helps or limits us in getting ahead?"
+author: Merlin Schaeffer
+date: 2022-09-29
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @sampson_neighborhoods_1997, @chetty_effects_2016.
+
+*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+
+<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+
+```{r, echo = FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics('https://i.pinimg.com/originals/f9/8a/ff/f98affaacaf625e4de2cccd6a56df537.jpg')
+```
+
+Whether living in poor and socio-economically deprived neighborhoods generates inequality, that is, negatively affects people's quality of life, is one of the oldest topics in the social sciences and dominates research on neighborhood effects and contextual effects more generally. Since the Chicago school of urban sociology, sociologists have investigated how neighborhoods can be both a a source of beneficial resources but also a hindering factor. In this session we discuss why.
+
+Surprisingly, however, evidence of such effects is mixed and very inconsistent. This is even true for evidence stemming from one of the largest field experiments in the social sciences: The Moving to Opportunity experiment. In this session we will discuss @chetty_effects_2016 and their take on this experiment. The presentation will discuss why not everyone can simply move to opportunity, as recently analyzed by @derenoncourt_can_2022.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoJUPd6104Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# References

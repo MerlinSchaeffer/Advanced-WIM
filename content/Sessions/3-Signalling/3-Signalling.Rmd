@@ -2,7 +2,7 @@
 title: "3 Signalling"
 summary: "In this session we will discuss an extremely intersting and promising mechanism explaianing inequality: cumulative advantage"
 author: Merlin Schaeffer
-date: 2022-07-09
+date: 2022-09-12
 publishdate: 2022-06-08
 slides: example
 
