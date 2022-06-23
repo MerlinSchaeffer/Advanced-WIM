@@ -17,7 +17,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 *Lecture slides:* [**Lecture 11**](/Sessions/1-Intro/1-Intro.html)
 
 ```{r, echo = FALSE, out.width='60%', fig.align='center'}
-knitr::include_graphics('http://i.gzn.jp/img/2015/05/06/crabs-moving/024.jpg')
+knitr::include_graphics('https://asknature.org/wp-content/uploads/2015/11/Social-Networking--scaled-1440x1046.jpg')
 ```
 
 How much are individual's career determined by an overall chain of vacancies that runs through organizations? And can this idea be applied to other phenomena and topics? In this session we will talk about a theory of opportunity structures for people to get ahead or to get stuck.
