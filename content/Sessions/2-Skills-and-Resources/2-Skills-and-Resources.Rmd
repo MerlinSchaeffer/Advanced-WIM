@@ -1,6 +1,6 @@
 ---
 title: "2 Skills and Resources"
-summary: "In this session we will talk about the role of skills and resources in explaining inequality and stratification"
+summary: "In this session we will talk about the role of (non-cognitive) skills and resources in explaining inequality and stratification"
 author: Merlin Schaeffer
 date: 2022-09-08
 publishdate: 2022-06-08
@@ -10,7 +10,9 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @heckman_hard_2012, @bourdieu_forms_1986
+*Readings:* @bourdieu_forms_1986 and @heckman_hard_2012.
+
+*Presentation:* @protsch_how_2015.
 
 *Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
 

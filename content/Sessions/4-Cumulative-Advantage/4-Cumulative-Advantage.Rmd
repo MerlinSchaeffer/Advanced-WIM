@@ -1,6 +1,6 @@
 ---
 title: "4 Cumulative Advantage"
-summary: "In this session we will discuss signalling theory"
+summary: "Often it appears to us that similar persons experience drastically different careers and success, with some repeatedly failing and others consistently succeeding - does the success breed success?"
 author: Merlin Schaeffer
 date: 2022-09-15
 publishdate: 2022-06-08
@@ -10,12 +10,14 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @diprete_cumulative_2006, @rijt_field_2014
+*Readings:* @diprete_cumulative_2006 and @rijt_field_2014.
+
+*Presentation:* @salganik_experimental_2006.
 
 *Lecture slides:* [**Lecture 4**](/Sessions/1-Intro/1-Intro.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
-Cumulative advantage, that is, the idea that success breeds further success, is a prominent and promising social mechanism to explain inequality. However providing proof of cumulative advantage is more difficult than one might assume. In this session we discuss this fascinating mechanism and its potential applications. We also discuss a recent field experimental attempt to test this success-breeds-success mechanism.
+Cumulative advantage, that is, the idea that success breeds further success, is a prominent and promising social mechanism to explain inequality. However providing proof of cumulative advantage is more difficult than one might assume. In this session, we discuss this fascinating mechanism and its potential applications. We also discuss field experimental attempts to test this success-breeds-success mechanism.
 
 # References

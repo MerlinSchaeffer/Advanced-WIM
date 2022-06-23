@@ -1,6 +1,6 @@
 ---
 title: "7 Social Capital 2"
-summary: "In this session we will talk about the resource- and trust-based conceptualizations of social capital."
+summary: "Today we talk about two further conceptualizations of social capital: Networks enable social control and thereby establish trust. Networks also entail indirect access to other's  resources."
 author: Merlin Schaeffer
 date: 2022-09-26
 publishdate: 2022-06-08
@@ -10,12 +10,14 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @coleman_social_1988, @lin_building_2001, @volker_getting_1999.
+*Readings:* @coleman_social_1988 and @lin_building_2001.
 
-*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+*Presentation:* @volker_getting_1999.
+
+*Lecture slides:* [**Lecture 7**](/Sessions/1-Intro/1-Intro.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
-Social Capital is a buzz word. But what is it actually and why exactly is it expected to be beneficial? In this session we will talk about the resource- and trust-based conceptualizations of social capital. We will compare them to the network sociological ideas.
+Today we talk about two further classic conceptualizations of social capital, that is as trust and as resources stored in networks. These ideas are less well known as Bourdieu's but actually very prominent among quantitatively working social scientists. Particularly education and migration scholars draw on these ideas a lot.
 
 # References

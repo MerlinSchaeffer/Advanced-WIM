@@ -1,8 +1,8 @@
 ---
-title: "11 The Trojan-Horse mechanism"
+title: "10 The Trojan-Horse mechanism"
 summary: "In this session we take a closer look at occupational gender segregation."
 author: Merlin Schaeffer
-date: 2022-10-10
+date: 2022-10-06
 publishdate: 2022-06-08
 slides: example
 
@@ -10,9 +10,17 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @arvidsson_trojan-horse_2021, @vedres_inclusion_2022.
+*Readings:* @arvidsson_trojan-horse_2021.
 
-*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+*Presentation:* @vedres_inclusion_2022.
+
+*Lecture slides:* [**Lecture 10**](/Sessions/1-Intro/1-Intro.html)
+
+
+```{r, echo = FALSE, out.width='80%', fig.align='center'}
+knitr::include_graphics('https://www.science.org/cms/10.1126/sciadv.abf6730/asset/207e13a5-1497-45c8-acdc-cdabd079a7db/assets/graphic/abf6730-f1.jpeg')
+```
+*Source*: @arvidsson_trojan-horse_2021
 
 In this session we take a closer look on recent research on occupational gender segregation. We will ask why gender segregation is limiting innovation and development, and we will ask whether networks strengthen or weaken occupational gender segregation.
 

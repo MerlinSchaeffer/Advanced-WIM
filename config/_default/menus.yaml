@@ -10,9 +10,9 @@ main:
   # - name: Sessions
   #   url: '#Sessions'
   #   weight: 20
-  - name: Portfolios
-    url: '/Portfolios/'
-    weight: 30
+  # - name: Portfolios
+  #   url: '/Portfolios/'
+  #   weight: 30
   # - name: Resources
   #   url: '/Resources/'
   #   weight: 40

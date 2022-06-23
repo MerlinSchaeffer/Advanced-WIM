@@ -1,6 +1,6 @@
 ---
 title: "3 Signalling"
-summary: "In this session we will discuss an extremely intersting and promising mechanism explaianing inequality: cumulative advantage"
+summary: "In this session we will discuss how signalling matters to explain inequality in a world where people rely on imperfect information."
 author: Merlin Schaeffer
 date: 2022-09-12
 publishdate: 2022-06-08
@@ -10,12 +10,14 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @gambetta_signalling_2009, @schaeffer_income_2016
+*Readings:* @gambetta_signalling_2009 and @spence_job_1973.
+
+*Presentation:* @schaeffer_income_2016.
 
 *Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
-In this session we will read Diego Gambetta's overview of signalling theory and it's use in sociology. As an application we will read a study I conducted with two colleagues on the signalling model of statistical discrimination. We will discuss which other applications of signalling theory we can come up with in class.
+In this session we will read Diego Gambetta's overview of signalling theory and it's use in sociology. We also skim read Spence's original article on the matter. As an application we will hear a presentation on a study I conducted with two colleagues on the signalling model of statistical discrimination. We will discuss which other applications of signalling theory we can come up with in class.
 
 # References

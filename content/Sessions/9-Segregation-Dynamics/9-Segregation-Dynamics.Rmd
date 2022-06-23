@@ -1,0 +1,25 @@
+---
+title: "9 Segregation Dynamics"
+summary: "Why are neighborhoods, schools, or occupations segregated by gender, ethnicity, and social class?"
+author: Merlin Schaeffer
+date: 2022-10-03
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @schelling_dynamic_1971.
+
+*Presentation:* @tapia_groups_2022.
+
+*Lecture slides:* [**Lecture 9**](/Sessions/1-Intro/1-Intro.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnffIS2EJ30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Source*: [Micheal Mäs](http://www.maes-sociology.eu/)
+
+Segregation - the unequal distribution of social groups across space (or across organizations, occupations, etc.) - is a fundamental topic in sociology. The residential segregation of ethnic or racial minorities is just as often described as an injustice as it is seen as a social problem and challenge to society. The same is true for gender segregation across occupations. But how does segregation come about? There are many explanatory factors. In this session we will focus on how segregation can be the outcome of an unintuitive and micro-level dynamic that leads to a complex aggregation. This idea was first introduced by @schelling_dynamic_1971.
+
+# References

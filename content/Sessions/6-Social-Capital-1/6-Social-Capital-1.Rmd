@@ -1,6 +1,6 @@
 ---
 title: "6 Social Capital 1"
-summary: "In this session we talk about network sociological conceptualizations of social capital."
+summary: "Decades before Bourdieu, network sociologists started asking: Why should certain positions in a social network be particularly beneficial?"
 author: Merlin Schaeffer
 date: 2022-09-22
 publishdate: 2022-06-08
@@ -10,12 +10,14 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @granovetter_strength_1973, @burt_brokerage_2007.
+*Readings:* @granovetter_strength_1973 and @burt_structural_2004.
 
-*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+*Presentation:* @lutter_women_2015.
+
+*Lecture slides:* [**Lecture 6**](/Sessions/1-Intro/1-Intro.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
-Social Capital is a buzz word. But what is it actually and why exactly is it expected to be beneficial? In this session we will talk about the network sociological work on social capital. That is, why should certain positions in a social network be particularly beneficial? Thinking on this was particularly pushed forward by Marc Granovetter and Ronald Burt.
+Social Capital is a buzz word and we tend to associate it with the work of Bourdieu. But decades before Bourdieu, network sociologists started working on the idea and, arguably, with much clearer arguments and concepts. Scholars in this tradition ask: why should certain positions in a social network be particularly beneficial? This way of thinking was particularly pushed forward by Marc Granovetter and Ronald Burt.
 
 # References
