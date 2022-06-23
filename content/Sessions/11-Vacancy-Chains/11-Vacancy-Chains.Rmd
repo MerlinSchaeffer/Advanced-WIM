@@ -2,7 +2,7 @@
 title: "11 Vacancy Chains"
 summary: "Does your career come to a halt if noone on top of you moves ahead?"
 author: Merlin Schaeffer
-date: 2022-10-03
+date: 2022-10-10
 publishdate: 2022-06-08
 slides: example
 
@@ -17,7 +17,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 *Lecture slides:* [**Lecture 11**](/Sessions/1-Intro/1-Intro.html)
 
 ```{r, echo = FALSE, out.width='60%', fig.align='center'}
-knitr::include_graphics('https://asknature.org/wp-content/uploads/2015/11/Social-Networking--scaled-1440x1046.jpg')
+knitr::include_graphics('https://madlyodd.com/wp-content/uploads/2019/09/og2-A-Family-of-Hermit-Crabs-Line-Up-By-Size-to-Exchange-Shells.png')
 ```
 
 How much are individual's career determined by an overall chain of vacancies that runs through organizations? And can this idea be applied to other phenomena and topics? In this session we will talk about a theory of opportunity structures for people to get ahead or to get stuck.
