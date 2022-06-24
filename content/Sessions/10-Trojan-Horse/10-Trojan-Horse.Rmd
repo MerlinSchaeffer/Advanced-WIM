@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @arvidsson_trojan-horse_2021.
 
-*Presentation:* @vedres_inclusion_2022.
+*Presentation:* @vedres_inclusion_2022, or @harris_wages_2022.
 
 *Lecture slides:* [**Lecture 10**](/Sessions/1-Intro/1-Intro.html)
 
