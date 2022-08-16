@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @sampson_neighborhoods_1997 and @zhou_social_1994.
 
-*Presentation:* @jorgensen_power_2021.
+*Presentation:* @jorgensen_power_2021 and @wiedner_ethno-religious_2022.
 
 *Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
 

@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @chase_vacancy_1991.
 
-*Presentation:* @bruderl_upward_1993, or @abbott_vacancy_1990.
+*Presentation:* @bruderl_upward_1993 and @abbott_vacancy_1990.
 
 *Lecture slides:* [**Lecture 11**](/Sessions/1-Intro/1-Intro.html)
 

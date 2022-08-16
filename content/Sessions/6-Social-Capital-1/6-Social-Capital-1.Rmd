@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @granovetter_strength_1973 and @burt_structural_2004.
 
-*Presentation:* @lutter_women_2015.
+*Presentation:* @lutter_women_2015 and @godechot_chance_2016.
 
 *Lecture slides:* [**Lecture 6**](/Sessions/1-Intro/1-Intro.html)
 

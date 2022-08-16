@@ -10,9 +10,9 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @diprete_cumulative_2006 and @rijt_field_2014.
+*Readings:* @diprete_cumulative_2006.
 
-*Presentation:* @salganik_experimental_2006.
+*Presentation:* @salganik_experimental_2006 and @rijt_field_2014.
 
 *Lecture slides:* [**Lecture 4**](/Sessions/1-Intro/1-Intro.html)
 

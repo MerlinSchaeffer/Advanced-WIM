@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @coleman_social_1988 and @lin_building_2001.
 
-*Presentation:* @volker_getting_1999.
+*Presentation:* @volker_getting_1999 and @andersson_social_2021.
 
 *Lecture slides:* [**Lecture 7**](/Sessions/1-Intro/1-Intro.html)
 

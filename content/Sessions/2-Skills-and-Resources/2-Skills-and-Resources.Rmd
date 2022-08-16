@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @bourdieu_forms_1986 and @heckman_hard_2012.
 
-*Presentation:* @protsch_how_2015.
+*Presentations:* @protsch_how_2015 and @jackson_disadvantaged_2009.
 
 *Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
 

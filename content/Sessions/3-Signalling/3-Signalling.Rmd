@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @gambetta_signalling_2009 and @spence_job_1973.
 
-*Presentation:* @schaeffer_income_2016.
+*Presentation:* @schaeffer_income_2016 and @kas_role_2021.
 
 *Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
 

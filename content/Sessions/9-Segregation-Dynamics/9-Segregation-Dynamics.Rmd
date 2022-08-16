@@ -12,7 +12,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Readings:* @schelling_dynamic_1971.
 
-*Presentation:* @tapia_groups_2022, or @martin-caughey_whats_2021.
+*Presentation:* @tapia_groups_2022 and @martin-caughey_whats_2021.
 
 *Lecture slides:* [**Lecture 9**](/Sessions/1-Intro/1-Intro.html)
 
