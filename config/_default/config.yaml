@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Advanced WIM 1/2 # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://merlin-advanced-wim.netlify.app/' # Website URL
 copyright: 'Merlin Schaeffer' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -31,7 +31,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 15
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

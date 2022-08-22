@@ -155,6 +155,8 @@ knitr::include_graphics('./img/Grusky1.png')
 
 .push-right[
 <iframe src='https://www.allourideas.org/advanced-WIM' width='600' height='500' frameborder='0' scrolling='yes'></iframe>
+
+[.alert[.center[Or click here!]]](https://www.allourideas.org/advanced-WIM)
 ]
 
 ---
