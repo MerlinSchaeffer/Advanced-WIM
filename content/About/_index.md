@@ -23,9 +23,9 @@ Please prepare the class readings thoroughly along the line of the below-specifi
 - *Comparison to other theories*: How does the theory compare to other theories we have discussed in class? Is it complementary, in opposition, is it an extension?
 - *Generalization*: Which phenomena could the proposed theory help to explain. Expecially think about the topics we cover in group work throughout the class.
 
-## 2 Portfolios
+## Two portfolios
 1. Team up with another student and give a 10-15 minute presentation.
-2. Write a 5-10 page essay (+50% per additional student) in which you compare the applicability and explanatory power of two inequality-generating mechanisms that we have discussed in class. Apply the two mechanisms to one of the phenomena we discuss in class. Make sure, the topic is not the on in which you present that week.
+2. Write a 5-10 page essay (+50% per additional student) in which you compare the applicability and explanatory power of two inequality-generating mechanisms that we have discussed in class. Check out [Leaflet 5: Writing a Theory Essay](/uploads/Leaflet_5_Theory_Essay.pdf). Apply the two mechanisms to one of the phenomena we discuss in class. Make sure, the topic is not the on in which you present that week. You need to upload this essay to Peer Feedback on Absalon until 9 October. Then you need to give Peer Feedback to two fellow students until noon 12 October. Make sure to read your feedback before the final session.
 
 ## Presentation
 Every student has to team up with another stuednt and give a presentation of an empirical study in one of the classes. The presentation shall take 10 to max. 15 minutes. You present a study that the other participants have not read. Your task is to present the study as if you were a scientific adviser to a political party, a foundation, or an NGO. Imagine you have read the new study and are convinced of its societal relevance. Now you have roughly ten minutes to convince the members of the board of your organization, none of whom has read the study, that this study is important and highly relevant for your organization's work. If you are successful, your research budget will be increased by the board, which means you gain freedom and advance in your career. This means your presentation needs to be pointed, easily understandable and convincing. Do not just summarize the empirical results, but show and interpret them for your audience. Importantly, explain how the study is an application of the theoretical idea we discuss that week. Try to use as much visualization and little text on your slides as possible. The other seminar participants mimic the imagined organization's board and ask critical questions after your presentation. Eventually, we will collectively give feedback on:
@@ -36,17 +36,4 @@ Every student has to team up with another stuednt and give a presentation of an 
 - Correct interpretation of results,
 - Presentation style (timing, speed, pronunciation, etc.),
 - Visualization (photos, graphics, etc.).
-
-## Syllabus
-| Session     | Topic                             | Session    | Topic                             |
-|-------------|-----------------------------------|------------|-----------------------------------|
-|**Week 36**  |                                   |**Week 39** |                                   |
-|1            | Intro                             | 7          | Social Capital 2                  |
-|2            | Skills and Resources              | 8          | Neighborhood effects              |         
-|**Week 37**   |                                  |**Week 40** |                                   |
-|3            | Signalling                        | 9          | Segregation dynamics              |
-|4            | Cumulative advantage              |10          | Trojan horse & gender segregation |        
-| **Week 38** |                                   |**Week 41** |                                   |  
-|5            | Concerted cultivation             |11          |  Vacancy chains                   |
-|6            | Social Capital 1                  |12          |  Feedback and discussion to Portfolio 2 |  
 
