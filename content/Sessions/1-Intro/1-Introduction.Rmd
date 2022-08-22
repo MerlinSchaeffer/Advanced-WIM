@@ -14,7 +14,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 Lecture slides: [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](https://blogs.iadb.org/ideas-matter/wp-content/uploads/sites/12/2017/11/inequality.jpg)
 
 In this first session we will establish a common ground regarding our prior knowledge of research on welfare, inequality, and (social) mobility. Which theories, facts, and methods and research designs do we know? Which topics and phenomena interest and fascinate us? What do we want to take and learn from this class?
 
