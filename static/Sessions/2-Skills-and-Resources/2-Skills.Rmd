@@ -1,0 +1,264 @@
+---
+title: "Skills"
+subtitle: "Education, cultural capital, & soft skills"
+author: "Merlin Schaeffer<br> Department of Sociology"
+date: "`r Sys.Date()`"
+output: 
+  xaringan::moon_reader:
+    chakra: "../template/remark-latest.min.js"
+    css: ["../template/Merlin169.css"]
+    lib_dir: libs
+    # self_contained: true
+    nature:
+      highlightLanguage: r
+      highlightStyle: zenburn
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+```{r setup, include = FALSE}
+library(RefManageR)
+library(knitr)
+
+options(htmltools.dir.version = FALSE, servr.interval = 0.5, width = 115, digits = 3)
+knitr::opts_chunk$set(
+  collapse = TRUE, message = FALSE, fig.retina = 3, error = TRUE,
+  warning = FALSE, cache = FALSE, fig.align = 'center',
+  comment = "#", strip.white = TRUE, tidy = FALSE)
+
+BibOptions(check.entries = FALSE, 
+           bib.style = "authoryear", 
+           style = "markdown",
+           hyperlink = FALSE,
+           no.print.fields = c("doi", "url", "ISSN", "urldate", "language", "note", "isbn", "volume"))
+myBib <- ReadBib("./../../../Adv-WIM.bib", check = FALSE)
+
+xaringanExtra::use_xaringan_extra(c("tile_view", "tachyons"))
+xaringanExtra::use_panelset()
+```
+class: middle clear
+
+.push-left[
+```{r, echo = FALSE, out.width='80%'}
+knitr::include_graphics('https://c.tenor.com/6Ju_FlRfSGUAAAAC/tkt-smart.gif')
+```
+]
+
+.push-right[
+```{r, echo = FALSE, out.width='80%'}
+knitr::include_graphics('https://i.dailymail.co.uk/i/pix/2015/09/18/17/042FBE210000044D-0-image-a-4_1442594021038.jpg')
+```
+]
+
+
+---
+# 3 fundamental guises of capital
+
+.left-column[
+> Capital is accumulated labor [...]
+
+> -- `r Citet(myBib, "bourdieu_forms_1986", after = " p. 15")`
+
+- Capitals can be converted, but only with loss and effort (time).
+
+- Capitals vary in how much they can be concealed.
+
+- $+$ concealment $\rightarrow$ - transmission.
+]
+
+.right-column[
+```{tikz, DAG1,  echo = FALSE, out.width='80%'}
+\usetikzlibrary{shapes,decorations,arrows,calc,arrows.meta,fit,positioning}
+\tikzset{
+    -Latex,auto,node distance =1 cm and 1 cm,semithick,
+    state/.style ={ellipse, draw, minimum width = 0.7 cm},
+    point/.style = {circle, draw, inner sep=0.04cm,fill,node contents={}},
+    bidirected/.style={Latex-Latex,dashed},
+    el/.style = {inner sep=2pt, align=left, sloped}
+}
+
+\begin{tikzpicture}
+\sffamily
+    \node[state] (1) at (0,0) {Labor};
+    \node[state] (2) [right = of 1] {Cultural capital};
+    \node[state] (3) [above = of 2] {Economic capital};
+    \node[state] (4) [below = of 2] {Social capital};
+
+    \path (1) edge  (2);
+    \path (1) edge  (3);
+    \path (1) edge  (4);
+    \path[bidirected] (2) edge[gray] (3);
+    \path[bidirected] (3) edge[gray, out=330, in=35] (4);
+    \path[bidirected] (2) edge[gray] (4);
+\end{tikzpicture}
+```
+]
+
+---
+# Comparison to Grusky's list
+
+.push-left[
+```{r, echo = FALSE, out.width='80%'}
+knitr::include_graphics('../1-Intro/img/Grusky1.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+.push-right[
+```{tikz, ref.label = "DAG1",  echo = FALSE, out.width='80%'}
+```
+
+.content-box-green[
+`r Citet(myBib, "grusky_stories_2018")` is exemplary. `r Citet(myBib, "bourdieu_forms_1986")` claims to be comprehensive. Which points of Grusky's list can be subsumed into Bourdieu's model and which ones seem to be missing?
+]
+
+]
+
+
+---
+# 3 types of cultural capital
+
+.push-left[
+```{r, echo = FALSE, out.width='70%'}
+knitr::include_graphics('./img/Paris.JPG')
+```
+]
+
+.push-right[
+<br>
+<br>
+
+1. **Embodied** "dispositions of the mind and body".
+  + Disguised as legitimate competence.
+  + Hidden transmission within families.
+
+2. **Objectified** "cultural goods".
+  + Need material and symbolic appropriation.
+
+3. **Institutionalized** "educational qualifications".
+  + Institutional recognition.
+  + Intransmittable.
+]
+
+---
+layout: true
+class: clear
+# (Soft) Skills, intelligence, and knowledge
+
+.left-column[
+- **Intelligence**: Reasoning & rate at which a person learns.
+
+- **Soft Skills**: Personality traits.
+
+- **Knowledge** learned at school and through life experience.
+]
+
+---
+.right-column[
+```{tikz, DAG2,  echo = FALSE, out.width='100%'}
+\usetikzlibrary{shapes,decorations,arrows,calc,arrows.meta,fit,positioning}
+\tikzset{
+    -Latex,auto,node distance =1 cm and 1 cm,semithick,
+    state/.style ={ellipse, draw, minimum width = 0.7 cm},
+    point/.style = {circle, draw, inner sep=0.04cm,fill,node contents={}},
+    bidirected/.style={Latex-Latex,dashed},
+    el/.style = {inner sep=2pt, align=left, sloped}
+}
+
+\begin{tikzpicture}
+\sffamily
+    \node[state] (1) at (0,0) {Genes};
+    \node[state] (2) [below = of 1] {Investment};
+    \node[state] (3) [right = of 1] {Intelligence};
+    \node[state] (4) [right = of 2] {Soft skills};
+    \node[state] (5) at (6, -0.75) {Knowledge};
+
+    \path (1) edge  (3);
+    \path (1) edge  (4);
+    \path (2) edge  (3);
+    \path (2) edge  (4);
+    \path (3) edge  (5);
+    \path (4) edge  (5);
+    \path (5) edge[gray, out=200, in=35] (2);
+\end{tikzpicture}
+```
+]
+
+---
+
+.push-right[
+```{r, echo = FALSE, out.width='60%'}
+knitr::include_graphics('./img/Heckman1.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+---
+
+.right-column[
+```{tikz, ref.label = "DAG2",  echo = FALSE, out.width='100%'}
+```
+
+.content-box-green[
+How does this compare to Bourdieu's three types of cultural capital? What's different, what's missing?
+]]
+
+---
+layout: false
+# Difficult measurement
+
+.push-left[
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics('./img/Heckman2.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+.push-right[
+```{r, echo = FALSE, out.width='80%'}
+knitr::include_graphics('https://www.newsclick.in/sites/default/files/styles/responsive_885/public/2022-08/Screenshot%20from%202022-08-22%2017-31-02.png?itok=7INsi3TO')
+```
+]
+
+---
+layout: true
+# The evidence
+
+.push-left[
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics('./img/Heckman3.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+---
+---
+
+.push-right[
+```{r, echo = FALSE, out.width='37%'}
+knitr::include_graphics('./img/Heckman4.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+---
+
+.push-right[
+```{r, echo = FALSE, out.width='34%'}
+knitr::include_graphics('./img/Heckman5.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "grusky_stories_2018")`]]
+]
+
+---
+layout: false
+# Group discussion
+
+---
+# References
+
+.font80[
+```{r ref, results = 'asis', echo = FALSE}
+PrintBibliography(myBib)
+```
+]
