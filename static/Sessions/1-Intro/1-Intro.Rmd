@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-subtitle: "Inequalities & inequality generating social mechanisms"
+subtitle: "Inequalities & inequality-generating mechanisms"
 author: "Merlin Schaeffer<br> Department of Sociology"
 date: "`r Sys.Date()`"
 output: 
@@ -135,9 +135,17 @@ knitr::include_graphics('./img/Structure.png')
 ---
 # Reading questions
 
-- *Theory*: What is the key social mechanism helping to explain what kind of inequality and how does it work?
-- *Comparison to other theories*: How does the theory compare to other theories we have discussed in class? Is it complementary, in opposition, is it an extension?
-- *Generalization*: Which phenomena could the proposed theory help to explain. Expecially think about the topics we cover in group work throughout the class.
+.push-left[
+- *Theory*: What is the key inequality-generating mechanism proposed in this text?
+- *Comparison to other theories*: How does the theory and the propopsed mechanism compare to others that we have already discussed in class, or which you know from other courses? Is it complementary, contradictory, is it an extension?
+- *Generalization*: Which phenomena could the proposed inequality-genearating mechanism help to explain. Especially think about the topics we cover in group discussions throughout the course.
+]
+
+.push-right[
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics('https://img.jakpost.net/c/2020/03/01/2020_03_01_87874_1583031914._large.jpg')
+```
+]
 
 ---
 layout: true
@@ -154,7 +162,9 @@ knitr::include_graphics('./img/Grusky1.png')
 
 .push-right[.content-box-green[
 - Have rigid classes dissolved into gradual inequalities?
+
 - Has class-based behavior and taste dissolved?
+
 - Are new forms of inequality orthogonal to class?
 ]]
 
@@ -181,10 +191,15 @@ your presentation needs to be pointed, easily understandable and convincing.
 
 .push-right[
 - Brief intro to topic and its relevance,
+
 - Brief elaboration of core theoretical argument,
+
 - Explanation of study design,
+
 - Correct interpretation of results,
+
 - Presentation style (timing, speed, pronunciation, etc.),
+
 - Visualization (photos, graphics, etc.).
 ]
 ---
