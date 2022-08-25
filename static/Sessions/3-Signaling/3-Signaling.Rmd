@@ -36,7 +36,7 @@ myBib <- ReadBib("./../../../Adv-WIM.bib", check = FALSE)
 xaringanExtra::use_xaringan_extra(c("tile_view", "tachyons"))
 xaringanExtra::use_panelset()
 ```
-# Signals vs. signs 
+# Signals vs. signs.font60[/indices]
 
 .push-left[
 ```{r, echo = FALSE, out.width='60%'}
@@ -58,7 +58,7 @@ $$\downarrow$$
 ]
 
 ---
-# The problem
+# The problem .font60[.alert[Necessary element of signaling!]]
 
 .push-left[
 ```{r, echo = FALSE, out.width='80%'}
@@ -71,11 +71,11 @@ knitr::include_graphics('https://www.mrroof.com/wp-content/uploads/2020/02/mold-
 ]
 
 .push-right[
-- (i) Mægler (Signaler) benefits, if Køber (Receiver) buys.
+- (i) Mægler/**Signaler benefits**, if Køber/Receiver buys.
 
-- (ii) Køber only benefits, if Mægler can be trusted that the house has quality $k$ (no rot under the roof).
+- (ii) Køber/**Receiver only benefits, if** Mægler/**Signaler can be trusted** that the house has quality $k$ (no rot under the roof).
 
-- If house has $k$, Mægler's and Køber's interest are aligned. If $\text{non-}k$, Køber may be deceived.
+- If house has $k$, Mægler's and Køber's interest are aligned (both benefit). If $\text{non-}k$, Køber may be deceived (Only Signaler benefits).
 ]
 
 ---
@@ -90,7 +90,7 @@ knitr::include_graphics('https://www.mrroof.com/wp-content/uploads/2020/02/mold-
 
 > Signals that approach near perfection exist but are rare.
 
-> -- 
+> -- `r Citet(myBib, "gambetta_signalling_2009", after = ", page 173ff.")`
 ]
 
 .push-right[
@@ -98,26 +98,23 @@ knitr::include_graphics('https://www.mrroof.com/wp-content/uploads/2020/02/mold-
 knitr::include_graphics('https://img.gifglobe.com/grabs/montypython/MontyPythonsLifeOfBrian/gif/7wAXSbinjXvQ.gif')
 ```
 .center[
-$b_{k} > s < b_{\text{non-}k}$
-]
-]
+Non-working signal: $b_{k} > s < b_{\text{non-}k}$
+]]
 
 ---
 # 4 Sources of signal cost
 
 .push-left[
-- Receiver independent: Wasting,
+- Receiver independent: 'Wasting',
 
 - Receiver dependent: Exposure to risk,
 
 - Third party-dependent cost,
 
-- (Multiple sources),
-
 - Costless signals.
   > To identify German spies British interrogators asked the results of famous cricket matches, the knowledge of which was costless to acquire for a genuine British [...]
   
-  > -- 
+  > -- `r Citet(myBib, "gambetta_signalling_2009", after = ", page 182")`
 ]
 
 .push-right[
@@ -129,18 +126,30 @@ knitr::include_graphics('https://thestyleup.com/wp-content/uploads/2015/09/mora-
 ---
 # Origin
 
+.push-left[
+```{r, echo = FALSE, out.width='70%'}
+knitr::include_graphics('./img/Gambetta1.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "gambetta_signalling_2009")`]]
+]
+
+.push-right[
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics('https://www.amlu.com/wp-content/uploads/2022/03/a-look-russian-billionaire-andrey-melnichenkos-sailing-yacht-a-55.jpg')
+```
+]
+
 ---
 # As a scientific program
 
----
-layout: false
-# Group discussion
+.left-column[
+```{r, echo = FALSE, out.width='90%'}
+knitr::include_graphics('../2-Skills-and-Resources/img/Paris.JPG')
+```
+]
 
-.push-left[
-.content-box-green[
-Taken as an inequality-generating mechanism, 
-
-```{tikz, DAG3,  echo = FALSE, out.width='70%'}
+.right-column[
+```{tikz, DAG1,  echo = FALSE, out.width='100%', cache = TRUE}
 \usetikzlibrary{shapes,decorations,arrows,calc,arrows.meta,fit,positioning}
 \tikzset{
     -Latex,auto,node distance =1 cm and 1 cm,semithick,
@@ -152,24 +161,74 @@ Taken as an inequality-generating mechanism,
 
 \begin{tikzpicture}
 \sffamily
-    \node[state] (1) at (0,0) {Birth};
-    \node[state] (2) [red, right = of 1] {$M$};
-    \node[state] (3) [right = of 2] {Inequality at adulthood};
+    \node[state] (1) at (0,0) {Skills \& Resources of $i$};
+    \node[state] (2) [red, right = of 1] {Signaling of $i$};
+    \node[state] (3) [red, above = of 2] {Receiver $j$ responds};
+    \node[state] (4) [red, below = of 2] {Signaling cost for $i$};
+    \node[state] (5) [right = of 2] {Benefit for $i$};
 
-    \path (1) edge  (2);
+    \path (1) edge  (4);
+    \path (3) edge  (5);
+    \path (4) edge  (2);
     \path (2) edge  (3);
 \end{tikzpicture}
 ```
+]
 
-how can `r Citet(myBib, "bourdieu_forms_1986")` / `r Citet(myBib, "heckman_hard_2012")` help us explain Topic 1-3?
+---
+# Implications for our view education
+
+.right-column[
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics('./img/Spence.png')
+```
+.center[.backgrnote[*Source*: `r Citet(myBib, "spence_job_1973")`]]
+]
+
+--
+
+.left-column[
+- Is education a signal or "absolute" skill/knowledge?
+  1. *Signals are relative* $\rightarrow$ weak if many display it. *Knowledge is absolute* $\rightarrow$ stays true, even if many others possess it.
+  
+  2. *Signal strength* may vary across groups (gender, race, class).
+]
+
+---
+# Implications for our view education
+
+.right-column[
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-completed-tertiary-education?time=2010" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+]
+
+.left-column[
+- Is education a signal or "absolute" skill/knowledge?
+  1. *Signals are relative* $\rightarrow$ weak if many display it. *Knowledge is absolute* $\rightarrow$ stays true, even if many others possess it.
+  
+  2. *Signal strength* may vary across groups (gender, race, class).
+]
+
+---
+# Group discussion
+
+.push-left[
+.content-box-green[
+Taken as an inequality-generating mechanism, 
+
+```{tikz, ref.label = "DAG1",  echo = FALSE, out.width='70%'}
+```
+
+how can signaling help us explain Topic 1-2?
 ]
 
 <br>
 
-|                    Topic 1 | Topic 2 | Topic 3 |
--------------------|---------|---------|---------|
-Bourdieu           | Group 1 | Group 3 | Group 5 |
-Heckman and Kautz  | Group 2 | Group 4 | Group 6 |
+|                          Topic 1 | Topic 2 |
+-------------------------|---------|---------|
+'Wasting' signs/signals  | Group 1 | Group 4 |
+Costless signs/signals   | Group 2 | Group 5 |
+Receivers                | Group 3 | Group 6 |
+
 ]
 
 .push-right[

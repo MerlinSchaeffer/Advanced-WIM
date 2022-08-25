@@ -1,5 +1,5 @@
 ---
-title: "3 Signalling"
+title: "3 Signaling"
 summary: "In this session we will discuss how signalling matters to explain inequality in a world where people rely on imperfect information."
 author: Merlin Schaeffer
 date: 2022-09-12
@@ -10,11 +10,13 @@ bibliography: "./../../../Adv-WIM.bib"
 csl: "./../../../assets/american-sociological-review.csl"
 ---
 
-*Readings:* @gambetta_signalling_2009 and @spence_job_1973.
+*Readings:* @gambetta_signalling_2009 and @spence_job_1973[Pages 355-363].
+
+*Optional skim reading*: @bliegebird_signaling_2005.
 
 *Presentation:* @schaeffer_income_2016 and @kas_role_2021.
 
-*Lecture slides:* [**Lecture 1**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 1**](/Sessions/3-Signaling/3-Signaling.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
