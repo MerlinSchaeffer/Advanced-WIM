@@ -14,7 +14,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @salganik_experimental_2006 and @rijt_field_2014.
 
-*Lecture slides:* [**Lecture 4**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 4**](/Sessions/4-Cumulative-Advantage/4-Cumulative.html)
 
 <!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
 
