@@ -16,9 +16,9 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @schaeffer_income_2016 and @kas_role_2021.
 
-*Lecture slides:* [**Lecture 1**](/Sessions/3-Signaling/3-Signaling.html)
+*Lecture slides:* [**Lecture 3**](/Sessions/3-Signaling/3-Signaling.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](https://i.pinimg.com/originals/75/f3/c1/75f3c1f8b3a5ff21e7264fd3cdfb541c.jpg)
 
 In this session we will read Diego Gambetta's overview of signalling theory and it's use in sociology. We also skim read Spence's original article on the matter. As an application we will hear a presentation on a study I conducted with two colleagues on the signalling model of statistical discrimination. We will discuss which other applications of signalling theory we can come up with in class.
 

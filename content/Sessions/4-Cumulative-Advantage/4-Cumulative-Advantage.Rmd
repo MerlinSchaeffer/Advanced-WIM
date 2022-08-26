@@ -16,7 +16,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Lecture slides:* [**Lecture 4**](/Sessions/4-Cumulative-Advantage/4-Cumulative.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](/Sessions/4-Cumulative-Advantage/4-Cumulative_files/figure-html/fig1-1.png)
 
 Cumulative advantage, that is, the idea that success breeds further success, is a prominent and promising social mechanism to explain inequality. However providing proof of cumulative advantage is more difficult than one might assume. In this session, we discuss this fascinating mechanism and its potential applications. We also discuss field experimental attempts to test this success-breeds-success mechanism.
 
