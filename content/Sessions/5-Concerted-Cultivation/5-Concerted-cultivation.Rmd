@@ -1,0 +1,24 @@
+---
+title: "5 Concerted cultivation"
+summary: "Guest lecture by Claire Maxwell on cenrted cultivation. How does this concept help explain differential outcomes for children and young people based on social class?"
+author: Merlin Schaeffer
+date: 2022-09-19
+publishdate: 2022-06-08
+slides: example
+
+bibliography: "./../../../Adv-WIM.bib"
+csl: "./../../../assets/american-sociological-review.csl"
+---
+
+*Readings:* @lareau_unequal_2011[Ch. 1], a more [recent interview with her about her research](https://kappanonline.org/annette-lareau-more-than-one-way-grow-up-childhood-heller/), and @vincent_parenting_2016.
+
+The book chapter is a nice introduction to the seminar book, and you may want to flick through the online version of the book and read Part IV – where she followed up a part of her sample 10 years on. @vincent_parenting_2016 assessment of Lareau's work as they reflect on a number of studies they have undertaken on this topic.
+
+*Presentation:* @calarco_avoiding_2020 and @ying_outsourced_2021.
+
+![](https://religionnews.com/wp-content/uploads/2014/03/Screenshot-2014-03-18-13.25.46.png)
+
+
+In this lecture we introduce and examine Annette Lareau’s seminal concept of ‘concerted cultivation’.  How does this concept help explain differential outcomes for children and young people based on social class?  What is the evidence for the explanatory value of this theory and how has it been drawn on and adapted over time and for use in contexts outside the US.
+
+# References
