@@ -14,9 +14,10 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @lutter_women_2015 and @godechot_chance_2016.
 
-*Lecture slides:* [**Lecture 6**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 6**](/Sessions/6-Social-Capital-I/6-SoCap1.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](https://d3i71xaburhd42.cloudfront.net/f94fd3326a9bc7896d6606fa23a658c32cfc75c8/28-Figure1-1.png)
+*Source*: @burt_structural_2004
 
 Social Capital is a buzz word and we tend to associate it with the work of Bourdieu. But decades before Bourdieu, network sociologists started working on the idea and, arguably, with much clearer arguments and concepts. Scholars in this tradition ask: why should certain positions in a social network be particularly beneficial? This way of thinking was particularly pushed forward by Marc Granovetter and Ronald Burt.
 
