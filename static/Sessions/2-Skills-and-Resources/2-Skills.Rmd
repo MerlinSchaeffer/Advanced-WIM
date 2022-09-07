@@ -232,14 +232,14 @@ Why is this a challenge for research?
 knitr::include_graphics('https://www.newsclick.in/sites/default/files/styles/responsive_885/public/2022-08/Screenshot%20from%202022-08-22%2017-31-02.png?itok=7INsi3TO')
 ```
 
-```{r, echo = FALSE, out.width='80%'}
+```{r, echo = FALSE, out.width='40%'}
 knitr::include_graphics('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Raven_Matrix.svg/250px-Raven_Matrix.svg.png')
 ```
 ]
 
 ---
 layout: true
-# The evidence
+# Evidence for the importance of soft skills
 
 .push-left[
 ```{r, echo = FALSE, out.width='100%'}
