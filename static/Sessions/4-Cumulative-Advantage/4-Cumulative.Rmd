@@ -291,7 +291,7 @@ how can signaling help us explain Topic 1-2?
 
 <br>
 
-|                          Topic 1 | Topic 2 |
+|                          Social mobility | Gender wage gap |
 -------------------------|---------|---------|
 Signal-resource mechanism  | Group 1 | Group 4 |
 Tournament mechanism   | Group 2 | Group 5 |

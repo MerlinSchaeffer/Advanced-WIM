@@ -210,7 +210,7 @@ how can signaling help us explain Topic 1-2?
 
 <br>
 
-|                          Topic 1 | Topic 2 | Topic 3|
+|                          Power | Ethnic wage gap | Education |
 -------------------------|---------|---------|--------|
 Weak ties  | Group 1 | Group 3 | Group 5 | 
 Brokerage   | Group 2 | Group 4 | Group 6|
