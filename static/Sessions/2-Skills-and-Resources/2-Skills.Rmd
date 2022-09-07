@@ -297,7 +297,7 @@ how can `r Citet(myBib, "bourdieu_forms_1986")` / `r Citet(myBib, "heckman_hard_
 
 <br>
 
-|                    Topic 1 | Topic 2 | Topic 3 |
+|                    Social mobility | Gender wage gap | Power |
 -------------------|---------|---------|---------|
 Bourdieu           | Group 1 | Group 3 | Group 5 |
 Heckman and Kautz  | Group 2 | Group 4 | Group 6 |
