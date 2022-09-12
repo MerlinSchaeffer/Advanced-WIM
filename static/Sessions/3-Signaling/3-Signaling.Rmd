@@ -192,7 +192,10 @@ knitr::include_graphics('../2-Skills-and-Resources/img/Paris.JPG')
 ```{r, echo = FALSE, out.width='100%'}
 knitr::include_graphics('./img/Spence.png')
 ```
-.center[.backgrnote[*Source*: `r Citet(myBib, "spence_job_1973")`]]
+
+> [...] a signal will not effectively distinguish one aplpicant from another, unless the costs of signalling are negatively correlated with productive capacity.
+
+> `r Citet(myBib, "spence_job_1973", after = ", p. 358")`
 ]
 
 --
@@ -235,9 +238,10 @@ how can signaling help us explain Topic 1-2?
 
 |                          Power | Ethnic wage gap |
 -------------------------|---------|---------|
-'Wasting' signs/signals  | Group 1 | Group 4 |
-Costless signs/signals   | Group 2 | Group 5 |
-Receivers                | Group 3 | Group 6 |
+'Wasting' signs/signals  | Group 1 | Group 5 |
+Costless signs/signals   | Group 2 | Group 6 |
+Receivers                | Group 3 | Group 7 |
+Varying signal strength  | Group 4 | Group 8 |
 
 ]
 
