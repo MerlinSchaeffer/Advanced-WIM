@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="" xml:lang="">
   <head>
-    <title>Segregation Dynamics</title>
+    <title>Trojan Horse Mechanism</title>
     <meta charset="utf-8" />
     <meta name="author" content="Merlin Schaeffer  Department of Sociology" />
     <meta name="date" content="2022-09-12" />
@@ -18,10 +18,10 @@
 class: center, middle, inverse, title-slide
 
 .title[
-# Segregation Dynamics
+# Trojan Horse Mechanism
 ]
 .subtitle[
-## The Schelling model of unorganized segregation dynamics
+## Networks and Segregation
 ]
 .author[
 ### Merlin Schaeffer<br> Department of Sociology
@@ -32,116 +32,48 @@ class: center, middle, inverse, title-slide
 
 ---
 
+class: center middle
 
-
-# Let's play
-
-.left-column[
-&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zapalky_makrofoto.jpg/440px-Zapalky_makrofoto.jpg" width="100%" style="display: block; margin: auto;" /&gt;
-]
-.right-column[
-.center[**Rules**]
-1. Break matches into heads and tails. Decide who plays which.
-2. Align heads and tails according to this sequence:
-.font70[
-
-```r
-rbinom(n = 44, size = 1, prob = 0.5)
-#  [1] 1 0 0 1 0 1 1 0 1 0 1 1 0 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 0 0 1 0 1 0 1 0 0
-```
-]
-2. Decide who plays heads and who plays tails.
-3. A Neighborhood is defined as `\(\pm 3 \rightarrow\)` 1 0 1 **1** 0 0 0.
-4. A dissatisfied actor moves to the nearest position where she would be satisfied and squeezes in.
-5. Define *silently for yourself*, how many neighbors shall at least be of your group (1+, 2+, 3+, etc.).
-6. Take turns until every actor is satisfied.
-7. How many of your actors live more segregated than the minimum rule demands?
-]
-
-
----
-
-&lt;iframe src='http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/' width='800' height='600' frameborder='0' scrolling='yes'&gt;&lt;/iframe&gt;
-&lt;!-- .center[.backgrnote[]] --&gt;
-
----
-# Groupwork
-
+# Segregation &amp; Trojan horses
 .left-column[
 .content-box-green[
-The Schelling (1971) model is a simplification. But it yields important insights with policy implication!
-
-Thus, go through the text. Which insights did you find important and why? 
+What is the Trojan Horse mechanism and how does it work?
 ]]
 
----
-layout: true
-# Insights
-
-.push-left[
-&lt;iframe src='http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/' width='800' height='550' frameborder='0' scrolling='yes'&gt;&lt;/iframe&gt;
-]
-
----
-
-.push-right[
-&lt;img src="./img/Schelling_1.png" width="100%" style="display: block; margin: auto;" /&gt;
-
-.content-box-blue[.center[
-`\(\rightarrow\)` Why homophily results in more segregation than individually intended.
-]]
-]
-
----
-
-.push-right[
-&lt;img src="./img/Schelling_2a.png" width="100%" style="display: block; margin: auto;" /&gt;
-.center[[...]]
-&lt;img src="./img/Schelling_2b.png" width="100%" style="display: block; margin: auto;" /&gt;
-
-.content-box-blue[.center[
-`\(\rightarrow\)` A universal preference for 51% own group already leads to perfect segregation.
-]]
-]
-
----
-
-.push-right[
-&lt;img src="./img/Schelling_3a.png" width="100%" style="display: block; margin: auto;" /&gt;
-.center[[...]]
-&lt;img src="./img/Schelling_3b.png" width="100%" style="display: block; margin: auto;" /&gt;
-
-.content-box-blue[.center[
-`\(\rightarrow\)` Minority status itself leads to stronger segregation, *ceteris paribus*.
-]]
-]
-
----
-
-.push-right[
-&lt;img src="./img/Schelling_5.png" width="100%" style="display: block; margin: auto;" /&gt;
-
-.content-box-blue[.center[
-`\(\rightarrow\)` It is more difficult to integrate small minorities.
+.right-column[
+&lt;img src="img/Arvidsson_1.png" width="100%" style="display: block; margin: auto;" /&gt;
+.center[.backgrnote[
+*Source*: Arvidsson, Collet, and Hedström (2021)
 ]]]
 
 ---
+# Segregation &amp; Trojan horses
+.left-column[
+.content-box-green[
+What do we learn from Figure 2A, 2B, and 2C respectively?
+]]
 
-.push-right[
-&lt;img src="./img/Schelling_4.png" width="100%" style="display: block; margin: auto;" /&gt;
-
-.content-box-blue[.center[
-`\(\rightarrow\)` Politician's focus on immigrants and their descendants in "Ghettos" is unbalanced.
+.right-column[
+&lt;img src="img/Arvidsson_2.png" width="100%" style="display: block; margin: auto;" /&gt;
+.center[.backgrnote[
+*Source*: Arvidsson, Collet, and Hedström (2021)
 ]]]
 
+---
+# Segregation &amp; Trojan horses
+
+&lt;img src="img/Arvidsson_3.png" width="90%" style="display: block; margin: auto;" /&gt;
+.center[.backgrnote[
+*Source*: Arvidsson, Collet, and Hedström (2021)
+]]
 
 ---
 layout: false
 # References
 
 .font80[
-Schelling, T. C. (1971). "Dynamic models of segregation". In: _The Journal of Mathematical Sociology_,
-pp. 143-186.
+Arvidsson, M., F. Collet, and P. Hedström (2021). "The Trojan-horse mechanism: How networks reduce
+gender segregation". In: _Science Advances_, p. eabf6730.
 ]
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>

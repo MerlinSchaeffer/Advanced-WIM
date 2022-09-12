@@ -14,13 +14,9 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @jorgensen_power_2021 and @wiedner_ethno-religious_2022.
 
-*Lecture slides:* [**Lecture 5**](/Sessions/8-Neighborhood-Effects/8-Nbh-Effects.html)
+*Lecture slides:* [**Lecture 8**](/Sessions/8-Neighborhood-Effects/8-Nbh-Effects.html)
 
 ![](https://pov.international/wp-content/uploads/2019/12/H%C3%B8je_Gladsaxe.jpg)
-
-```{r, echo = FALSE, out.width='50%', fig.align='center'}
-knitr::include_graphics('https://i.pinimg.com/originals/f9/8a/ff/f98affaacaf625e4de2cccd6a56df537.jpg')
-```
 
 Whether living in poor and socio-economically deprived neighborhoods generates inequality, that is, negatively affects people's quality of life, is one of the oldest topics in the social sciences and dominates research on neighborhood effects and contextual effects more generally. Since the Chicago school of urban sociology, sociologists have investigated how neighborhoods can be both a source of beneficial resources but also a hindering factor. In this session we discuss why.
 

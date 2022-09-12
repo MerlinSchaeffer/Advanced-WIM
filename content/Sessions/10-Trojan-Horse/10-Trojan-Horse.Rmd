@@ -14,7 +14,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @vedres_inclusion_2022 and @harris_wages_2022.
 
-*Lecture slides:* [**Lecture 10**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 10**](/Sessions/10-Trojan-Horse/10-Trojan.html)
 
 
 ```{r, echo = FALSE, out.width='80%', fig.align='center'}
