@@ -14,9 +14,9 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @jorgensen_power_2021 and @wiedner_ethno-religious_2022.
 
-*Lecture slides:* [**Lecture 5**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 5**](/Sessions/8-Neighborhood-Effects/8-Nbh-Effects.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](https://pov.international/wp-content/uploads/2019/12/H%C3%B8je_Gladsaxe.jpg)
 
 ```{r, echo = FALSE, out.width='50%', fig.align='center'}
 knitr::include_graphics('https://i.pinimg.com/originals/f9/8a/ff/f98affaacaf625e4de2cccd6a56df537.jpg')

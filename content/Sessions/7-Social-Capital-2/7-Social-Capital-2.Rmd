@@ -14,9 +14,10 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @stack_all_1974[Ch. 1, Chr.3 & Ch.6], or @andersson_social_2021.
 
-*Lecture slides:* [**Lecture 7**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 7**](/Sessions/7-Social-Capital-II/7-SoCap2.html)
 
-<!-- ![](/Sessions/1-Correlation-n-Regression/1-Correlation-n-Regression_files/figure-html/min_resid-1.png) -->
+![](https://www.researchgate.net/profile/Ann-Dale/publication/30934845/figure/fig1/AS:277092743827459@1443075466446/Networks-with-a-open-and-b-closed-structures-Source-Coleman-2000-p-27.png)
+*Source*: @coleman_social_1988
 
 Today we talk about two further classic conceptualizations of social capital, that is as trust and as resources stored in networks. These ideas are less well known as Bourdieu's but actually very prominent among quantitatively working social scientists. Particularly education and migration scholars draw on these ideas a lot.
 

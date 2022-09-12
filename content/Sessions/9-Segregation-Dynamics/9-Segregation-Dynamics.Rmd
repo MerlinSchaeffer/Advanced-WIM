@@ -14,7 +14,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @tapia_groups_2022 and @martin-caughey_whats_2021.
 
-*Lecture slides:* [**Lecture 9**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 9**](/Sessions/9-Segregation-Dynamics/9-Segregation-Dynamics.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnffIS2EJ30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
