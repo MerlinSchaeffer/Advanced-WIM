@@ -44,7 +44,7 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "tachyons"))
 xaringanExtra::use_panelset()
 ```
 class: clear
-# .font60[What is the research question of `r Citet(myBib, "sampson_neighborhoods_1997")`?]
+# .font70[Why are crime rates high in deprived neighborhoods?]
 
 ```{r echo = FALSE, fig.width = 7, fig.height = 4, out.width= "70%"}
 dagify( # Define the DAG
@@ -66,7 +66,6 @@ dagify( # Define the DAG
 ```
 
 ---
-layout: true
 # Collective Efficacy
 
 .right-column[
@@ -93,12 +92,7 @@ dagify( # Define the DAG
 ```
 ]
 
----
-
----
 .left-column[
-Research question: Does a lack of Collective Efficacy explain why unstable and deprived areas have higher crime rates?
-
 .content-box-blue[
 Collective Efficacy =
 - Informal social control:
@@ -122,13 +116,10 @@ class: clear
 versus 
 
 Context Effects]]
-
-.content-box-green[
-What distinguishes a context from a composition effect?
-]
 ]
 
 .right-column[
+<br>
 ```{r echo = FALSE, out.width= "50%"}
 set.seed(8383)
 
@@ -231,23 +222,6 @@ df2 <- tibble(
 ]
 
 ---
-# Examples
-
-.push-left[
-.content-box-green[
-Consider Composition and Context Effects for the following hypotheses with your neighbor:
-- H1: The more elderly residents live in a neighborhood, the fewer house parties.
-- H2: The more house owners live in a neighborhood, the lower the crime rate.
-- H3: Come up with an exemplary hypothesis of your own.
-]]
-
-.push-right[
-```{r, echo = FALSE, out.width='100%', fig.align='center'}
-knitr::include_graphics('https://c.tenor.com/ZH8sBDd1cZwAAAAM/parrrrty-party.gif')
-```
-]
-
----
 # Collective Efficacy as Context Effect
 
 .left-column[
@@ -301,35 +275,57 @@ knitr::include_graphics('./img/Sampson2.png')
 ---
 background-image: url('https://www.quartiersmanagement-berlin.de/fileadmin/content-media/Gebietsgalerien/114_Zentrum_KB_Kottbusser_Tor__Cansu_Cakmak_.jpg')
 background-size: cover
-class: center middle
-
-.font150[.center[.alert[**Given all these insights,**<br> **Why are such large-scale modernizations problematic?**]]]
+class: center
+<br>
+.font150[.center[.alert[**Given all these insights,**<br> **Why might large-scale modernization projects be problematic?**]]]
 
 
 ---
 layout: false
 # Group discussion
 
-.push-left[
-.content-box-green[
-Taken as inequality-generating mechanisms, 
-how can Coleman's and Lin's social capital theories help us explain Topic 1-3?
-]
-
-<br>
-
-Mechanism |  Power | Gender gap | Social mobility 
--------------------|---------|---------|--------
-Coleman | Group 1 | Group 3 | Group 5 
-Lin | Group 2 | Group 4 | Group 6
-
-
-]
-
-.push-right[
+.left-column[
 ```{r, echo = FALSE, out.width='80%'}
-knitr::include_graphics('https://www.educationworld.in/wp-content/uploads/2018/04/gd.jpg')
+knitr::include_graphics('https://www.dynamiclanguage.com/wp-content/uploads/2018/05/nj_vietnamese-american_community_1.jpg')
+knitr::include_graphics('https://marinvietoralhistory.files.wordpress.com/2018/05/img_6729-2.jpg')
 ```
+]
+
+.right-column[
+```{tikz, DAG1,  echo = FALSE, out.width='90%', cache = TRUE}
+\usetikzlibrary{shapes,decorations,arrows,calc,arrows.meta,fit,positioning}
+\tikzset{
+    -Latex,auto,node distance =1 cm and 1 cm,semithick,
+    state/.style ={ellipse, draw, minimum width = 0.7 cm},
+    point/.style = {circle, draw, inner sep=0.04cm,fill,node contents={}},
+    bidirected/.style={Latex-Latex,dashed},
+    el/.style = {inner sep=2pt, align=left, sloped}
+}
+
+\begin{tikzpicture}
+\sffamily
+    \node[state] (1) at (0,1) {Closure};
+    \node[state, align = center] (2) at (0,-1) {Multiplex \\ networks};
+    \node[state, align = center] (3) at (3, 0) {Social \\ control};
+    \node[state, align = center] (4) [right = of 3] {Trustworthiness \\ \& Norms};
+    \node[state, align = center] (5) [right = of 4] {Lower \\ Transaction costs \\ \& Deviance};
+
+    \path (1) edge  (3);
+    \path (2) edge  (3);
+    \path (3) edge  (4);
+    \path (4) edge  (5);
+\end{tikzpicture}
+```
+
+- *Left*: The Vietnamese Community of Eastern New Orleans.
+- *Right*: The Adaption of Vietnamese Youth: An Empirical Example
+
+1. Your favorite piece of evidence of a benefit of `r Citet(myBib, "coleman_social_1988")` style social capital.
+2. Find a quote exemplifying: 
+    - Group a): Multiplex networks,
+    - Group b): Network closure,
+    - Group c): Social control,
+    - Group d): Norms.
 ]
 
 ---
