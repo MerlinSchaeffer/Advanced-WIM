@@ -53,21 +53,21 @@ knitr::include_graphics('https://upload.wikimedia.org/wikipedia/commons/thumb/e/
 2. Align heads and tails according to this sequence:
 .font70[
 ```{r}
-rbinom(n = 44, size = 1, prob = 0.5)
+rbinom(n = 36, size = 1, prob = 0.5)
 ```
 ]
 2. Decide who plays heads and who plays tails.
-3. A Neighborhood is defined as $\pm 3 \rightarrow$ 1 0 1 **1** 0 0 0.
-4. A dissatisfied actor moves to the nearest position where she would be satisfied and squeezes in.
-5. Define *silently for yourself*, how many neighbors shall at least be of your group (1+, 2+, 3+, etc.).
+3. A "Neighborhood" is defined as $\pm 3 \rightarrow$ 1 0 1 **1** 0 0 0.
+4. At least two of every actor's six neighbors shall be in-group, otherwise an actor is unhappy.
+5. An unhappy actor moves right to the nearest position where she would be satisfied and squeezes in.
 6. Take turns until every actor is satisfied.
-7. How many of your actors live more segregated than the minimum rule demands?
+7. How many of your actors live more segregated than the minimum rule (i.e. two neighbors are in-group) demands?
 ]
 
 
 ---
 
-<iframe src='http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/' width='800' height='600' frameborder='0' scrolling='yes'></iframe>
+<iframe src='file:///Users/fsm788/Downloads/Segregation.html' width='1200' height='600' frameborder='0' scrolling='yes'></iframe>
 <!-- .center[.backgrnote[`r Citet(myBib, "mccown_schellings_nodate")`]] -->
 
 ---
@@ -77,16 +77,13 @@ rbinom(n = 44, size = 1, prob = 0.5)
 .content-box-green[
 The `r Citet(myBib, "schelling_dynamic_1971")` model is a simplification. But it yields important insights with policy implication!
 
-Thus, go through the text. Which insights did you find important and why? 
+Thus, go through the text. Which insight did you find most important and why?
 ]]
 
 ---
 layout: true
 # Insights
 
-.push-left[
-<iframe src='http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/' width='800' height='550' frameborder='0' scrolling='yes'></iframe>
-]
 
 ---
 
