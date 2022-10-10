@@ -14,7 +14,7 @@ csl: "./../../../assets/american-sociological-review.csl"
 
 *Presentation:* @bruderl_upward_1993 and @abbott_vacancy_1990.
 
-*Lecture slides:* [**Lecture 11**](/Sessions/1-Intro/1-Intro.html)
+*Lecture slides:* [**Lecture 11**](/Sessions/11-Vacancy-chains/11-Vacancy-chains.html)
 
 ```{r, echo = FALSE, out.width='60%', fig.align='center'}
 knitr::include_graphics('https://madlyodd.com/wp-content/uploads/2019/09/og2-A-Family-of-Hermit-Crabs-Line-Up-By-Size-to-Exchange-Shells.png')
